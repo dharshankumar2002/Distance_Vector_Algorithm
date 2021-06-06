@@ -15,7 +15,6 @@ This algorithm is nothing but an extension of Link-State (Djiskras) algorithm. <
 <hr style=\"border:0.5px solid gray\"> </hr>
 
 #### MATLAB App:
-<br>
 <p align="left">
   <img src="./Matlab App/3.png" width="500" alt="MATLAB app">
 </p>
